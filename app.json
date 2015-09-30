@@ -2,7 +2,7 @@
     "name": "DUNE",
     "repository": "https://github.com/vizio360/Dune",
     "env": {
-        "ELM_COMPILE": "elm make Game.elm"
+        "ELM_COMPILE": "elm make test.elm"
     },
     "buildpacks": [
         {
