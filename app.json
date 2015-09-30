@@ -1,5 +1,5 @@
 {
-    "name": "DUNE"
+    "name": "DUNE",
     "repository": "https://github.com/vizio360/Dune",
     "env": {
         "ELM_COMPILE": "elm make Game.elm"
