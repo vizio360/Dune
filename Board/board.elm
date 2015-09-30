@@ -1,4 +1,4 @@
-module Board where
+module Board.Board where
 
 type alias Characteristics = {name:String, attack:Int, energy:Int} 
 

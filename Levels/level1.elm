@@ -1,6 +1,6 @@
 module Levels.Level1 where
 import Matrix exposing (..)
-import Board exposing (..)
+import Board.Board as Board exposing (..)
 
 
 initLevel : Board.Cell -> (Matrix Board.Cell, (Int, Int))

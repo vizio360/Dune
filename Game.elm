@@ -1,4 +1,4 @@
-import Board exposing (..)
+import Board.Board as Board exposing (..)
 import Graphics.Element exposing (..)
 import Graphics.Collage exposing (..)
 import Levels.Level1 as CurrentLevel
